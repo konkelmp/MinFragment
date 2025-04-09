@@ -1,3 +1,9 @@
+/**
+ * @author Preston Konkel
+ * CS3013 Mobile App Development
+ * Professor Elliot Evans
+ */
+
 package edu.msudenver.cs3013.minfragment
 
 import android.os.Bundle
